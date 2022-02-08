@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&family=Sacramento&family=Special+Elite&display=swap');
+
+
+
+
+body {
+   background: darkolivegreen;
+   justify-content: center;
+}
+
+header {
+   background-color: gold;
+   text-align: center;
+}
+
+a {
+   text-emphasis-color: rgb(63, 55, 9);
+   color: rgb(19, 94, 16);
+
+   &:hover {
+      color: teal;
+      opacity: 25%;
+   }
+}
+
+img {
+   height: auto;
+   object-fit: cover;
+}
+
+h1 {
+   font-family: 'Rowdies';
+}
+
+li {
+   font-family: 'Special Elite';
+   font-size: larger;
+}

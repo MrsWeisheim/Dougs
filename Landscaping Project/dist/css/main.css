@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Rowdies:wght@300&family=Sacramento&family=Special+Elite&display=swap");
+body {
+  background: darkolivegreen;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+header {
+  background-color: gold;
+  text-align: center;
+}
+
+a {
+  -webkit-text-emphasis-color: #3f3709;
+          text-emphasis-color: #3f3709;
+  color: #135e10;
+}
+
+a:hover {
+  color: teal;
+  opacity: 25%;
+}
+
+img {
+  height: auto;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+h1 {
+  font-family: 'Rowdies';
+}
+
+li {
+  font-family: 'Special Elite';
+  font-size: larger;
+}
+/*# sourceMappingURL=main.css.map */
